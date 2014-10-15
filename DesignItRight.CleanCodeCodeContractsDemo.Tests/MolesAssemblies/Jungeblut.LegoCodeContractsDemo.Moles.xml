@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jungeblut.LegoCodeContractsDemo.Moles</name>
+    </assembly>
+    <members>
+        <member name="T:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact">
+            <summary>Mole type of <see cref="T:Jungeblut.Internal.LegoDemo.ContactManagement.Contact"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.#ctor(Jungeblut.Internal.LegoDemo.ContactManagement.Contact)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.Bind(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.Constructor">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.#ctor"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.FirstNameGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.FirstNameSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.LastNameGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.LastNameSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.MiddleNameGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.MiddleNameSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.PhoneNumberGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.PhoneNumberSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.FirstNameGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.FirstNameSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.LastNameGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.LastNameSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.MiddleNameGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.MiddleNameSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.PhoneNumberGet">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MContact.AllInstances.PhoneNumberSetString">
+            <summary>Sets the mole of <see cref="P:Jungeblut.Internal.LegoDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager">
+            <summary>Mole type of <see cref="T:Jungeblut.LegoDemo.ContactManagement.ContactManager"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.#ctor(Jungeblut.LegoDemo.ContactManagement.ContactManager)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.Bind(Jungeblut.LegoDemo.ContactManagement.IContactManager)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.CanLoad">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.ConstructorILoggerIContactPersistence">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.#ctor(Jungeblut.Infrastructure.Common.Logging.ILogger,Jungeblut.LegoDemo.ContactManagement.IContactPersistence)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.Load">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.Load"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.SaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.Save(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.ValidateContactIsNotNullIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.ValidateContactIsNotNull(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances.CanLoad">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances.Load">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.Load"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.MContactManager.AllInstances.SaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.LegoDemo.ContactManagement.ContactManager.Save(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence">
+            <summary>Mole type of <see cref="T:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.#ctor(Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.Bind(Jungeblut.LegoDemo.ContactManagement.IContactPersistence)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CanLoad">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.ConstructorILogger">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.#ctor(Jungeblut.Infrastructure.Common.Logging.ILogger)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CreateDummyContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.CreateDummyContact"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.Load">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.Load"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.SaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.Save(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.CanLoad">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.Load">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.Load"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.SaveIContact">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence.Save(Jungeblut.LegoDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger">
+            <summary>Mole type of <see cref="T:Jungeblut.Infrastructure.Common.Logging.Logger"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.#ctor(Jungeblut.Infrastructure.Common.Logging.Logger)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.Bind(Jungeblut.Infrastructure.Common.Logging.ILogger)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.ConstructorILoggingSink">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.Logger.#ctor(Jungeblut.Infrastructure.Common.Logging.ILoggingSink)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.LogString">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.Logger.Log(System.String)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.Logger.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.AllInstances.LogString">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.Logger.Log(System.String)"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MLogger.AllInstances.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.Logger.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink">
+            <summary>Mole type of <see cref="T:Jungeblut.Infrastructure.Common.Logging.TextFileLoggingSink"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.#ctor(Jungeblut.Infrastructure.Common.Logging.TextFileLoggingSink)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.Bind(Jungeblut.Infrastructure.Common.Logging.ILoggingSink)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.Constructor">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.TextFileLoggingSink.#ctor"/>
+            </summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.WriteString">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.TextFileLoggingSink.Write(System.String)"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.AllInstances.WriteString">
+            <summary>Sets the mole of <see cref="M:Jungeblut.Infrastructure.Common.Logging.TextFileLoggingSink.Write(System.String)"/>
+            </summary>
+        </member>
+        <member name="T:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SContact">
+            <summary>Stub type of <see cref="T:Jungeblut.Internal.LegoDemo.ContactManagement.Contact"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SContact.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SContact.InitializeStub">
+            <summary>Initializes a new instance of type SContact</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SContact.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SContact.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.Moles.SContactManager">
+            <summary>Stub type of <see cref="T:Jungeblut.LegoDemo.ContactManagement.ContactManager"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.Moles.SContactManager.#ctor(Jungeblut.Infrastructure.Common.Logging.ILogger,Jungeblut.LegoDemo.ContactManagement.IContactPersistence)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.Moles.SContactManager.InitializeStub">
+            <summary>Initializes a new instance of type SContactManager</summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.SContactManager.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.Moles.SContactManager.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SDummyExampleContactPersistence">
+            <summary>Stub type of <see cref="T:Jungeblut.Internal.LegoDemo.ContactManagement.DummyExampleContactPersistence"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SDummyExampleContactPersistence.#ctor(Jungeblut.Infrastructure.Common.Logging.ILogger)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SDummyExampleContactPersistence.InitializeStub">
+            <summary>Initializes a new instance of type SDummyExampleContactPersistence</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SDummyExampleContactPersistence.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Jungeblut.Internal.LegoDemo.ContactManagement.Moles.SDummyExampleContactPersistence.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.Moles.SLogger">
+            <summary>Stub type of <see cref="T:Jungeblut.Infrastructure.Common.Logging.Logger"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.SLogger.#ctor(Jungeblut.Infrastructure.Common.Logging.ILoggingSink)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.SLogger.InitializeStub">
+            <summary>Initializes a new instance of type SLogger</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.SLogger.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.SLogger.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.Moles.STextFileLoggingSink">
+            <summary>Stub type of <see cref="T:Jungeblut.Infrastructure.Common.Logging.TextFileLoggingSink"/>
+            .</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.InitializeStub">
+            <summary>Initializes a new instance of type STextFileLoggingSink</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+    </members>
+</doc>

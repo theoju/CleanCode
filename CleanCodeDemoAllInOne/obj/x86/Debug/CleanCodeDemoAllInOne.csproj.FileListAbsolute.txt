@@ -1,0 +1,37 @@
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe.config
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe.config
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.csprojResolveAssemblyReference.cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.SingleContactManagerForm.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.Properties.Resources.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.Properties.LoggingResources.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.csproj.GenerateResource.Cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe.config
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.csprojResolveAssemblyReference.cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.SingleContactManagerForm.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.Properties.Resources.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.Properties.LoggingResources.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.csproj.GenerateResource.Cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-11-09 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe.config
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-11-09 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-11-09 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe.config
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.exe
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.SingleContactManagerForm.resources
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.Properties.LoggingResources.resources
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-10-11 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\bin\Debug\CleanCodeDemoAllInOne.exe.config
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-10-11 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.exe
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-10-11 Clean Code - SVCC\Source\CleanCodeDemoAllInOne\obj\x86\Debug\CleanCodeDemoAllInOne.pdb

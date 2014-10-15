@@ -1,0 +1,115 @@
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\LegoDemoUnity.exe
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\LegoDemoUnity.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.Properties.Resources.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.SingleContactManagerForm.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.exe
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.exe
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\LegoDemoUnity.exe
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\LegoDemoUnity.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.Properties.Resources.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.SingleContactManagerForm.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.exe
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\LegoDemoUnity.exe
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\LegoDemoUnity.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.csprojResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.Properties.Resources.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.SingleContactManagerForm.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.csproj.GenerateResource.Cache
+H:\Theo\Documents\Presentations\2012-10-06 Dependency Injection - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.exe
+H:\Theo\Documents\Presentations\2012-10-06 Dependency Injection - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.exe
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\LegoDemoUnity.exe
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\LegoDemoUnity.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.Properties.Resources.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.SingleContactManagerForm.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.exe
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\LegoDemoUnity.exe
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\LegoDemoUnity.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Jungeblut.LegoDemoUnity.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.Properties.Resources.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.SingleContactManagerForm.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\obj\x86\Debug\LegoDemoUnity.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoUnity\bin\Debug\LegoDemoUnity.exe.config

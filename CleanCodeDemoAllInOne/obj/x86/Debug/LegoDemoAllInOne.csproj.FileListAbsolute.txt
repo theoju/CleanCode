@@ -1,0 +1,50 @@
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.exe
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.SingleContactManagerForm.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.Resources.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.LoggingResources.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.exe
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.exe
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.exe
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.SingleContactManagerForm.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.Resources.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.LoggingResources.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.exe
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.exe
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.csprojResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.SingleContactManagerForm.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.Resources.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.LoggingResources.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.csproj.GenerateResource.Cache
+H:\Theo\Documents\Presentations\2012-10-06 Dependency Injection - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.exe
+H:\Theo\Documents\Presentations\2012-10-06 Dependency Injection - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.exe
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.exe
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.SingleContactManagerForm.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.Resources.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.LoggingResources.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.exe
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.exe
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.SingleContactManagerForm.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.Resources.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.Properties.LoggingResources.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\obj\x86\Debug\LegoDemoAllInOne.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoAllInOne\bin\Debug\LegoDemoAllInOne.exe.config

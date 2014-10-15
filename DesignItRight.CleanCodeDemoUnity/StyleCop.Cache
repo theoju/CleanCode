@@ -1,0 +1,233 @@
+<stylecopresultscache>
+  <version>11</version>
+  <project key="-883190895">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="1708550107">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="Logger.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>492</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="StopWatchCallHandler.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>465</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="PropertySummaryDocumentationMustMatchAccessors" ruleCheckId="SA1623">
+        <context>The property's documentation summary text must begin with: Gets or sets</context>
+        <line>27</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="TextFileLogginSink.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>447</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="StopWatchCallHandlerAttribute.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>456</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>33</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="StopWatchBehavior.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>473</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>411</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="DummyExampleContactPersistence.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>430</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Contact.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>439</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="LoggingResources.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>09/22/2010 23:31:30</timestamp>
+    <milliseconds>0</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="LoggingBehavior.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>482</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="ContactManager.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>12/20/2011 21:54:44</timestamp>
+      <milliseconds>912</milliseconds>
+    </settings>
+    <timestamp>01/16/2012 16:04:58</timestamp>
+    <milliseconds>419</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveCopyrightText" ruleCheckId="SA1635">
+        <context>The copyright tag in the file header must not be empty.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="DocumentationTextMustNotBeEmpty" ruleCheckId="SA1627">
+        <context>The documentation text within the exception tag must not be empty.</context>
+        <line>42</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

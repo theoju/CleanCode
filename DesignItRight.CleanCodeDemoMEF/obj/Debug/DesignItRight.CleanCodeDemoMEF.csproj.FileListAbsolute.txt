@@ -1,0 +1,36 @@
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.dll
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.pdb
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.dll
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.pdb
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.Properties.LoggingResources.resources
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.dll
+H:\Theo\Presentations\2013-01-16 Clean Code - Design Pattern & Best Practices - Bay.NET SF\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.dll
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.dll
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csprojResolveAssemblyReference.cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.Properties.LoggingResources.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csproj.GenerateResource.Cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.dll
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-07-27 Clean Code - SoCal Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.dll
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.dll
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csprojResolveAssemblyReference.cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.Properties.LoggingResources.resources
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csproj.GenerateResource.Cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.dll
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.dll
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemoMEF.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.dll
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\bin\Debug\DesignItRight.CleanCodeDemo.Contract.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.Properties.LoggingResources.resources
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.dll
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\DesignItRight.CleanCodeDemoMEF\obj\Debug\DesignItRight.CleanCodeDemoMEF.pdb

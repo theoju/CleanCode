@@ -1,0 +1,592 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jungeblut.LegoCodeContractsDemo.Contract</name>
+    </assembly>
+    <members>
+        <member name="T:System.Diagnostics.Contracts.ContractArgumentValidatorAttribute">
+            <summary>
+            Enables factoring legacy if-then-throw into separate methods for reuse and full control over thrown exception and arguments
+            </summary>
+        </member>
+        <member name="T:System.Diagnostics.Contracts.ContractAbbreviatorAttribute">
+            <summary>
+            Enables writing abbreviations for contracts that get copied to other methods
+            </summary>
+        </member>
+        <member name="T:System.Diagnostics.Contracts.ContractOptionAttribute">
+            <summary>
+            Allows setting contract and tool options at assembly, type, or method granularity.
+            </summary>
+        </member>
+        <member name="M:System.Diagnostics.Contracts.ContractOptionAttribute.#ctor(System.String,System.String,System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:System.Diagnostics.Contracts.ContractOptionAttribute"/> class.
+            </summary>
+            <param name="category">
+            The category. 
+            </param>
+            <param name="setting">
+            The setting. 
+            </param>
+            <param name="toggle">
+            If set to <c>true</c> [toggle]. 
+            </param>
+        </member>
+        <member name="M:System.Diagnostics.Contracts.ContractOptionAttribute.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:System.Diagnostics.Contracts.ContractOptionAttribute"/> class.
+            </summary>
+            <param name="category">
+            The category. 
+            </param>
+            <param name="setting">
+            The setting. 
+            </param>
+            <param name="value">
+            The value. 
+            </param>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.ILogger">
+            <summary>
+            The interface of a Logger
+            </summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.ILogger.Log(System.String)">
+            <summary>
+            Logs the specified message to the logger sink
+            </summary>
+            <param name="message">
+            The message. 
+            </param>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.LoggerContract">
+            <summary>
+            The logger contract.
+            </summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.LoggerContract.Log(System.String)">
+            <summary>
+            The log.
+            </summary>
+            <param name="message">
+            The message. 
+            </param>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.ILoggingSink">
+            <summary>
+            Interface for a logging sink
+            </summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.ILoggingSink.Write(System.String)">
+            <summary>
+            Writes the specified message to the log sink
+            </summary>
+            <param name="message">
+            The message. 
+            </param>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.Logging.LoggingSinkContract">
+            <summary>
+            The logging sink contract.
+            </summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.Logging.LoggingSinkContract.Write(System.String)">
+            <summary>
+            The write.
+            </summary>
+            <param name="message">
+            The message. 
+            </param>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+        <member name="T:Jungeblut.Infrastructure.Common.OperationResult">
+            <summary>
+            Operation Result contains the information about the success of an operation and/or warnings and errors about issues.
+            </summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Jungeblut.Infrastructure.Common.OperationResult"/> class for a failed operation.
+            </summary>
+            <param name="error">
+            The error. 
+            </param>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.#ctor">
+            <summary>
+              Initializes a new instance of the <see cref="T:Jungeblut.Infrastructure.Common.OperationResult"/> class for an successful operation.
+            </summary>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.#ctor(System.Boolean,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Jungeblut.Infrastructure.Common.OperationResult"/> class.
+            </summary>
+            <param name="success">
+            If set to <c>true</c> [success]. 
+            </param>
+            <param name="message">
+            Error or Warning message based on Success value. 
+            </param>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.op_Equality(Jungeblut.Infrastructure.Common.OperationResult,Jungeblut.Infrastructure.Common.OperationResult)">
+            <summary>
+              Implements the operator ==.
+            </summary>
+            <param name="operationResult1"> The operation result1. </param>
+            <param name="operationResult2"> The operation result2. </param>
+            <returns> The result of the operator. </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.op_Equality(Jungeblut.Infrastructure.Common.OperationResult,System.Boolean)">
+            <summary>
+              Implements the operator ==.
+            </summary>
+            <param name="operationResult"> The operation result. </param>
+            <param name="value"> If set to <c>true</c> [value]. </param>
+            <returns> The result of the operator. </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.op_Equality(System.Boolean,Jungeblut.Infrastructure.Common.OperationResult)">
+            <summary>
+              Implements the operator ==.
+            </summary>
+            <param name="value"> If set to <c>true</c> [value]. </param>
+            <param name="operationResult"> The operation result. </param>
+            <returns> The result of the operator. </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.op_Inequality(Jungeblut.Infrastructure.Common.OperationResult,Jungeblut.Infrastructure.Common.OperationResult)">
+            <summary>
+              Implements the operator !=.
+            </summary>
+            <param name="operationResult1"> The operation result1. </param>
+            <param name="operationResult2"> The operation result2. </param>
+            <returns> The result of the operator. </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.op_Inequality(Jungeblut.Infrastructure.Common.OperationResult,System.Boolean)">
+            <summary>
+              Implements the operator !=.
+            </summary>
+            <param name="operationResult"> The operation result. </param>
+            <param name="value"> If set to <c>true</c> [value]. </param>
+            <returns> The result of the operator. </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.op_Inequality(System.Boolean,Jungeblut.Infrastructure.Common.OperationResult)">
+            <summary>
+              Implements the operator !=.
+            </summary>
+            <param name="value"> If set to <c>true</c> [value]. </param>
+            <param name="operationResult"> The operation result. </param>
+            <returns> The result of the operator. </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.op_Implicit(Jungeblut.Infrastructure.Common.OperationResult)~System.Boolean">
+            <summary>
+              Performs an implicit conversion from <see cref="T:Jungeblut.Infrastructure.Common.OperationResult"/> to <see cref="T:System.Boolean"/> .
+            </summary>
+            <param name="operationResult"> The operation result. </param>
+            <returns> The result of the conversion. </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.AddErrorMessage(System.String)">
+            <summary>
+            Adds the error message to the errors collection and sets the success value to false if it was true before.
+            </summary>
+            <param name="errorMessage">
+            The error message. 
+            </param>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.AddWarningMessage(System.String)">
+            <summary>
+            Adds the warning message to the warnings collection.
+            </summary>
+            <param name="warningMessage">
+            The warning message. 
+            </param>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.ToString">
+            <summary>
+            Returns a string with all errors and warnings, each of them on a separate line starting with all errors.
+            </summary>
+            <returns>
+            A <see cref="T:System.String"/> that represents all errors and warnings. 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.ErrorsToString">
+            <summary>
+            Returns all errors as a string, where each error message is on a new line.
+            </summary>
+            <returns>
+            String containing all errors separated with on a new line each 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.WarningsToString">
+            <summary>
+            Returns all warnings as a string, where each error message is on a new line.
+            </summary>
+            <returns>
+            String containing all warnings separated with on a new line each 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.Equals(System.Object)">
+            <summary>
+            Determines whether the specified <see cref="T:System.Object"/> is equal to this instance.
+            </summary>
+            <param name="obj">
+            The <see cref="T:System.Object"/> to compare with this instance. 
+            </param>
+            <returns>
+            <c>true</c> if the specified <see cref="T:System.Object"/> is equal to this instance; otherwise, <c>false</c> . 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.Infrastructure.Common.OperationResult.GetHashCode">
+            <summary>
+            Returns a hash code for this instance.
+            </summary>
+            <returns>
+            A hash code for this instance, suitable for use in hashing algorithms and data structures like a hash table. 
+            </returns>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.OperationResult.Success">
+            <summary>
+              Gets a value indicating whether this <see cref="T:Jungeblut.Infrastructure.Common.OperationResult"/> is success.
+            </summary>
+            <value> <c>true</c> if success; otherwise, <c>false</c> . </value>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.OperationResult.Errors">
+            <summary>
+              Gets the errors.
+            </summary>
+            <value> The errors. </value>
+        </member>
+        <member name="P:Jungeblut.Infrastructure.Common.OperationResult.Warnings">
+            <summary>
+              Gets the warnings.
+            </summary>
+            <value> The warnings. </value>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.IContact">
+            <summary>
+            Interface for a simple Contact
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.IContact.FirstName">
+            <summary>
+              Gets or sets the first name.
+            </summary>
+            <value> The first name. </value>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.IContact.MiddleName">
+            <summary>
+              Gets or sets the name of the middle.
+            </summary>
+            <value> The name of the middle. </value>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.IContact.LastName">
+            <summary>
+              Gets or sets the last name.
+            </summary>
+            <value> The last name. </value>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.IContact.PhoneNumber">
+            <summary>
+              Gets or sets the phone number.
+            </summary>
+            <value> The phone number. </value>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.ContactContract">
+            <summary>
+            The contact contract.
+            </summary>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.ContactContract.FirstName">
+            <summary>
+              Gets or sets the first name.
+            </summary>
+            <value> The first name. </value>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.ContactContract.MiddleName">
+            <summary>
+              Gets or sets the name of the middle.
+            </summary>
+            <value> The name of the middle. </value>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.ContactContract.LastName">
+            <summary>
+              Gets or sets the last name.
+            </summary>
+            <value> The last name. </value>
+        </member>
+        <member name="P:Jungeblut.LegoDemo.ContactManagement.ContactContract.PhoneNumber">
+            <summary>
+              Gets or sets the phone number.
+            </summary>
+            <value> The phone number. </value>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.IContactManager">
+            <summary>
+            The interface for the contact manager.
+            </summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactManager.Save(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Saves the specified contact.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            The operation result. 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactManager.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Determines whether the contact can be saved.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactManager.Load">
+            <summary>
+            Loads the contact object.
+            </summary>
+            <returns>
+            The stored contact object 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactManager.CanLoad">
+            <summary>
+            Determines whether the contact can be loaded.
+            </summary>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactManager.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Deletes the specified contact.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            The operation result. 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactManager.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Determines whether the specified contact can be deleted.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.ContactManagerContract">
+            <summary>
+            The contact manager contract.
+            </summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactManagerContract.Save(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Saves the specified contact.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            The operation result. 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactManagerContract.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Determines whether the contact can be saved.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactManagerContract.Load">
+            <summary>
+            Loads the contact object.
+            </summary>
+            <returns>
+            The stored contact object 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactManagerContract.CanLoad">
+            <summary>
+            Determines whether the contact can be loaded.
+            </summary>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactManagerContract.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Deletes the specified contact.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            The operation result. 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactManagerContract.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Determines whether the specified contact can be deleted.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.IContactPersistence">
+            <summary>
+            Interface for the persistence object responsible for Contracts
+            </summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactPersistence.Save(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Saves the specified contact.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            The operation result. 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactPersistence.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Determines whether the contact can be saved.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactPersistence.Load">
+            <summary>
+            Loads the contact object.
+            </summary>
+            <returns>
+            The stored contact object 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactPersistence.CanLoad">
+            <summary>
+            Determines whether the contact can be loaded.
+            </summary>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactPersistence.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Deletes the specified contact.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            The operation result. 
+            </returns>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.IContactPersistence.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            Determines whether the specified contact can be deleted.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            Operation Result including information about success of execution 
+            </returns>
+        </member>
+        <member name="T:Jungeblut.LegoDemo.ContactManagement.ContactPersistenceContract">
+            <summary>
+            The contact persistence contract.
+            </summary>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactPersistenceContract.Save(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            The save.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            </returns>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactPersistenceContract.CanSave(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            The can save.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            </returns>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactPersistenceContract.Load">
+            <summary>
+            The load.
+            </summary>
+            <returns>
+            </returns>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactPersistenceContract.CanLoad">
+            <summary>
+            The can load.
+            </summary>
+            <returns>
+            </returns>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactPersistenceContract.Delete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            The delete.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            </returns>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+        <member name="M:Jungeblut.LegoDemo.ContactManagement.ContactPersistenceContract.CanDelete(Jungeblut.LegoDemo.ContactManagement.IContact)">
+            <summary>
+            The can delete.
+            </summary>
+            <param name="contact">
+            The contact. 
+            </param>
+            <returns>
+            </returns>
+            <exception cref="T:System.NotImplementedException">
+            </exception>
+        </member>
+    </members>
+</doc>

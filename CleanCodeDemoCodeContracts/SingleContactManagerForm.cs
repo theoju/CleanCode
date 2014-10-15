@@ -1,0 +1,203 @@
+﻿//--------------------------------------------------------------------------
+// <copyright file="SingleContactManagerForm.cs" company="none ">
+//     Copyright (CPOL) 1.02 Design IT Right
+//
+//     THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CODE 
+//     PROJECT OPEN LICENSE ("LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT 
+//     AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS 
+//     AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+//
+//     BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HEREIN, YOU ACCEPT 
+//     AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE AUTHOR GRANTS 
+//     YOU THE RIGHTS CONTAINED HEREIN IN CONSIDERATION OF YOUR ACCEPTANCE OF 
+//     SUCH TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO ACCEPT AND BE BOUND 
+//     BY THE TERMS OF THIS LICENSE, YOU CANNOT MAKE ANY USE OF THE WORK.
+// </copyright>
+// <author>Theo Jungeblut</author>
+//--------------------------------------------------------------------------
+
+using System;
+using System.Diagnostics.Contracts;
+using System.Windows.Forms;
+
+using DesignItRight.Infrastructure.Common;
+using DesignItRight.Internal.CleanCodeDemo.ContactManagement;
+using DesignItRight.CleanCodeDemo.ContactManagement;
+
+namespace CleanCodeDemoCodeContracts
+{
+    /// <summary>
+    /// MainForm for the CleanCode Demo All In One example application
+    /// </summary>
+    public partial class SingleContactManagerForm : Form
+    {
+        #region -------------------- Constants and Fields --------------------
+        private IContactManager contactManager;
+        #endregion
+
+        #region -------------------- Constructors and Destructors --------------------
+
+        /// <summary>
+        ///   Initializes a new instance of the <see cref="SingleContactManagerForm" /> class.
+        /// </summary>
+        public SingleContactManagerForm()
+        {
+            InitializeComponent();
+        }
+
+        #endregion
+
+        #region -------------------- Public Methods --------------------
+
+        /// <summary>
+        /// Initializes this instance with all required parameters
+        /// </summary>
+        /// <param name="contactManager">
+        /// The contact manager. 
+        /// </param>
+        public void Initialize(IContactManager contactManager)
+        {
+            this.contactManager = contactManager;
+            if (contactManager == null)
+            {
+                throw new ArgumentException("contactManager");
+            }
+        }
+
+        #endregion
+
+        #region -------------------- Private Methods --------------------
+        private void SaveContact()
+        {
+            OperationResult operationResult;
+            IContact contact;
+
+            contact = CreateContactFromUserInput();
+
+            operationResult = this.contactManager.Save(contact);
+
+            UpdateStatusStrip(operationResult.ToString());
+        }
+
+        private void LoadContact()
+        {
+            OperationResult operationResult;
+
+            operationResult = this.contactManager.CanLoad();
+            if (operationResult)
+            {
+                IContact contact;
+
+                contact = this.contactManager.Load();
+                if (contact != null)
+                {
+                    DisplayContact(contact);
+                }
+            }
+
+            UpdateStatusStrip(operationResult.ToString());
+        }
+
+        private void DeleteContact()
+        {
+            OperationResult operationResult;
+            IContact contact;
+
+            contact = CreateContactFromUserInput();
+
+            operationResult = this.contactManager.Delete(contact);
+            if (operationResult)
+            {
+                CleareUiElements();
+            }
+
+            UpdateStatusStrip(operationResult.ToString());
+        }
+
+        // Helper methods unchanged
+        private Contact CreateContactFromUserInput()
+        {
+            Contract.Ensures(Contract.Result<Contact>() != null);
+            return new Contact
+                   {
+                       FirstName = this.firstNameTextBox.Text, 
+                       MiddleName = this.middleNameTextBox.Text, 
+                       LastName = this.lastNameTextBox.Text, 
+                       PhoneNumber = this.phoneNumberTextBox.Text
+                   };
+        }
+
+        private void DisplayContact(IContact contact)
+        {
+            Contract.Requires(contact != null);
+
+            SuspendLayout();
+            LoadContactIntoUi(contact);
+            ResumeLayout();
+            Refresh();
+        }
+
+        private void LoadContactIntoUi(IContact contact)
+        {
+            Contract.Requires(contact != null);
+
+            this.firstNameTextBox.Text = contact.FirstName;
+            this.middleNameTextBox.Text = contact.MiddleName;
+            this.lastNameTextBox.Text = contact.LastName;
+            this.phoneNumberTextBox.Text = contact.PhoneNumber;
+        }
+
+        private void CleareUiElements()
+        {
+            this.firstNameTextBox.Text = null;
+            this.middleNameTextBox.Text = null;
+            this.lastNameTextBox.Text = null;
+            this.phoneNumberTextBox.Text = null;
+        }
+
+        private void UpdateStatusStrip(string statusText)
+        {
+            Contract.Requires(statusText != null);
+
+            SuspendLayout();
+            UpdateStatusStripeLabel(statusText);
+            ResumeLayout();
+            Refresh();
+        }
+
+        private void UpdateStatusStripeLabel(string statusText)
+        {
+            Contract.Requires(statusText != null);
+
+            this.toolStripStatusLabel1.Text = statusText;
+        }
+
+        // Code Contracts helper methods
+        [ContractInvariantMethod]
+        private void ObjectInvariant()
+        {
+            // NOTE: (TJ) The code contract below will fail if included as the constructor is included in the OjectInvariant check.
+            // Contract.Invariant(this.contactManager != null);
+        }
+
+        #endregion
+
+        #region -------------------- EventHandlers --------------------
+        private void SaveButton_Click(object sender, EventArgs e)
+        {
+            SaveContact();
+        }
+
+        private void LoadButton_Click(object sender, EventArgs e)
+        {
+            LoadContact();
+        }
+
+        private void DeleteButton_Click(object sender, EventArgs e)
+        {
+            DeleteContact();
+        }
+
+        #endregion
+    }
+}

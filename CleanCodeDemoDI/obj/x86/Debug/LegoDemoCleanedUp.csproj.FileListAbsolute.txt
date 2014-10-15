@@ -1,0 +1,65 @@
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.SingleContactManagerForm.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.exe
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.Properties.Resources.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.exe
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.SingleContactManagerForm.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.Properties.Resources.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.csprojResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.SingleContactManagerForm.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.Properties.Resources.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.csproj.GenerateResource.Cache
+H:\Theo\Documents\Presentations\2012-10-06 Dependency Injection - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Documents\Presentations\2012-10-06 Dependency Injection - Silicon Valley Code Camp\2012-06-24 Clean Code\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.SingleContactManagerForm.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.Properties.Resources.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.exe
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\bin\Debug\Jungeblut.LegoDemo.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.SingleContactManagerForm.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.Properties.Resources.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\obj\x86\Debug\LegoDemoCleanedUp.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\LegoDemoCleanedUp\bin\Debug\LegoDemoCleanedUp.exe.config

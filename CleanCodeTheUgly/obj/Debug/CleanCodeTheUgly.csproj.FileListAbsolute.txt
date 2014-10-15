@@ -1,0 +1,18 @@
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.csprojResolveAssemblyReference.cache
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.exe.config
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-10-06 Clean Code - SVCC\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.pdb
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-11-09 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.exe.config
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-11-09 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.exe
+C:\Users\tjungeblut.CORP.000\Dropbox\Presentations\2013-11-09 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.exe.config
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.exe
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.exe
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.pdb
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-04-05 Clean Code - Desert Code Camp\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-10-11 Clean Code - SVCC\Source\CleanCodeTheUgly\bin\Debug\CleanCodeTheUgly.exe.config
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-10-11 Clean Code - SVCC\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.exe
+\\vmware-host\Shared Folders\Documents\Dropbox\Presentations\2014-10-11 Clean Code - SVCC\Source\CleanCodeTheUgly\obj\Debug\CleanCodeTheUgly.pdb

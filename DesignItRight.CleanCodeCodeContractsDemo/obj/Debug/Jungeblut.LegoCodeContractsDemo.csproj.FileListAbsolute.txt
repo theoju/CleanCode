@@ -1,0 +1,57 @@
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\GenerateResource.read.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.Properties.LoggingResources.resources
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\GenerateResource.write.1.tlog
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.XML
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.XML
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\ResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.Properties.LoggingResources.resources
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\GenerateResource.read.1.tlog
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\GenerateResource.write.1.tlog
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.XML
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.csprojResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.Properties.LoggingResources.resources
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.csproj.GenerateResource.Cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.XML
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.Properties.LoggingResources.resources
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.XML
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.Properties.LoggingResources.resources
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.csproj.GenerateResource.Cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo\obj\Debug\Jungeblut.LegoCodeContractsDemo.pdb

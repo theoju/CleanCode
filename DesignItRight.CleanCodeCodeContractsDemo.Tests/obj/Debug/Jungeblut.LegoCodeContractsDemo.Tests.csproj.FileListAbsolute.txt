@@ -1,0 +1,172 @@
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Behaviors.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Moles.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.xml
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ah
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ch
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.cs
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.csproj
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.moles
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csproj.FileListAbsolute.txt
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\ResolveAssemblyReference.cache
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\moles.args
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+D:\Theo private\Presentations\2012-02-09 Clean Code - East Bay .NET User Group\2012-02-09 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Behaviors.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Moles.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\ResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ah
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ch
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.cs
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.csproj
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.moles
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csproj.FileListAbsolute.txt
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\ResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\moles.args
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Documents\Presentations\2012-06-22 Clean Code - Code Camp San Diego\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Behaviors.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Moles.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.csprojResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ah
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ch
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.cs
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.csproj
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.moles
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csproj.FileListAbsolute.txt
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csprojResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\ResolveAssemblyReference.cache
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\moles.args
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Documents\Presentations\2012-10-06 Clean Coe - Silicon Valley Code Camp\2012-06-24 Clean Code\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Behaviors.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Moles.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ah
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ch
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.cs
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.csproj
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.moles
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csproj.FileListAbsolute.txt
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\ResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\moles.args
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Presentations\2012-10-06 Dependency Injection - SVCC\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Behaviors.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\mscorlib.Moles.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\bin\Debug\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Contract.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.Moles.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\b\Jungeblut.LegoCodeContractsDemo.xml
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ah
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.ch
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.cs
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.csproj
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\m.g.moles
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\Jungeblut.LegoCodeContractsDemo.Moles.pdb
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csproj.FileListAbsolute.txt
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\jlccd\o\m.g.csprojResolveAssemblyReference.cache
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Moles\moles.args
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.dll
+H:\Theo\Presentations\2012-10-17 Dependency Injection - .NET UG Osnabrueck\Source\Jungeblut.LegoCodeContractsDemo.Tests\obj\Debug\Jungeblut.LegoCodeContractsDemo.Tests.pdb

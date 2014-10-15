@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DesignItRight.CleanCodeCodeContractsDemo.Moles</name>
+    </assembly>
+    <members>
+        <member name="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact">
+            <summary>Mole type of <see cref="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.#ctor(DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.Bind(DesignItRight.CleanCodeDemo.ContactManagement.IContact)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.Constructor">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.#ctor"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.FirstNameGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.FirstNameSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.LastNameGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.LastNameSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.MiddleNameGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.MiddleNameSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.PhoneNumberGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.PhoneNumberSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.FirstNameGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.FirstNameSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.FirstName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.LastNameGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.LastNameSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.LastName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.MiddleNameGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.MiddleNameSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.MiddleName"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.PhoneNumberGet">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MContact.AllInstances.PhoneNumberSetString">
+            <summary>Sets the mole of <see cref="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact.PhoneNumber"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager">
+            <summary>Mole type of <see cref="T:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.#ctor(DesignItRight.CleanCodeDemo.ContactManagement.ContactManager)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.Bind(DesignItRight.CleanCodeDemo.ContactManagement.IContactManager)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.CanDelete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.CanLoad">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.CanSave(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.ConstructorILoggerIContactPersistence">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.#ctor(DesignItRight.Infrastructure.Common.Logging.ILogger,DesignItRight.CleanCodeDemo.ContactManagement.IContactPersistence)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.Delete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.Load">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.Load"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.SaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.Save(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.ValidateContactIsNotNullIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.ValidateContactIsNotNull(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.CanDelete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances.CanLoad">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.CanSave(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.Delete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances.Load">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.Load"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.MContactManager.AllInstances.SaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager.Save(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence">
+            <summary>Mole type of <see cref="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.#ctor(DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.Bind(DesignItRight.CleanCodeDemo.ContactManagement.IContactPersistence)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.CanDelete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CanLoad">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.CanSave(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.ConstructorILogger">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.#ctor(DesignItRight.Infrastructure.Common.Logging.ILogger)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.CreateDummyContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.CreateDummyContact"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.Delete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.Load">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.Load"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.SaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.Save(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.CanDeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.CanDelete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.CanLoad">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.CanLoad"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.CanSaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.CanSave(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.DeleteIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.Delete(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.Load">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.Load"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.MDummyExampleContactPersistence.AllInstances.SaveIContact">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence.Save(DesignItRight.CleanCodeDemo.ContactManagement.IContact)"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger">
+            <summary>Mole type of <see cref="T:DesignItRight.Infrastructure.Common.Logging.Logger"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.#ctor(DesignItRight.Infrastructure.Common.Logging.Logger)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.Bind(DesignItRight.Infrastructure.Common.Logging.ILogger)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.ConstructorILoggingSink">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.Logger.#ctor(DesignItRight.Infrastructure.Common.Logging.ILoggingSink)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.LogString">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.Logger.Log(System.String)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.Logger.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.AllInstances.LogString">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.Logger.Log(System.String)"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MLogger.AllInstances.ObjectInvariant">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.Logger.ObjectInvariant"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink">
+            <summary>Mole type of <see cref="T:DesignItRight.Infrastructure.Common.Logging.TextFileLoggingSink"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.#ctor">
+            <summary>Initializes a new mole</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.#ctor(DesignItRight.Infrastructure.Common.Logging.TextFileLoggingSink)">
+            <summary>Initializes a new mole for the given instance</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the moled type</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.Bind(DesignItRight.Infrastructure.Common.Logging.ILoggingSink)">
+            <summary>Binds the members of the interface to the mole.</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.Behavior">
+            <summary>Assigns the behavior for all methods of the moled type</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.Constructor">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.TextFileLoggingSink.#ctor"/>
+            </summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.WriteString">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.TextFileLoggingSink.Write(System.String)"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.AllInstances">
+            <summary>Define moles for all instances members</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.MTextFileLoggingSink.AllInstances.WriteString">
+            <summary>Sets the mole of <see cref="M:DesignItRight.Infrastructure.Common.Logging.TextFileLoggingSink.Write(System.String)"/>
+            </summary>
+        </member>
+        <member name="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SContact">
+            <summary>Stub type of <see cref="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Contact"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SContact.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SContact.InitializeStub">
+            <summary>Initializes a new instance of type SContact</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SContact.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SContact.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:DesignItRight.CleanCodeDemo.ContactManagement.Moles.SContactManager">
+            <summary>Stub type of <see cref="T:DesignItRight.CleanCodeDemo.ContactManagement.ContactManager"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.CleanCodeDemo.ContactManagement.Moles.SContactManager.#ctor(DesignItRight.Infrastructure.Common.Logging.ILogger,DesignItRight.CleanCodeDemo.ContactManagement.IContactPersistence)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DesignItRight.CleanCodeDemo.ContactManagement.Moles.SContactManager.InitializeStub">
+            <summary>Initializes a new instance of type SContactManager</summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.SContactManager.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:DesignItRight.CleanCodeDemo.ContactManagement.Moles.SContactManager.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SDummyExampleContactPersistence">
+            <summary>Stub type of <see cref="T:DesignItRight.Internal.CleanCodeDemo.ContactManagement.DummyExampleContactPersistence"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SDummyExampleContactPersistence.#ctor(DesignItRight.Infrastructure.Common.Logging.ILogger)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SDummyExampleContactPersistence.InitializeStub">
+            <summary>Initializes a new instance of type SDummyExampleContactPersistence</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SDummyExampleContactPersistence.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:DesignItRight.Internal.CleanCodeDemo.ContactManagement.Moles.SDummyExampleContactPersistence.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:DesignItRight.Infrastructure.Common.Logging.Moles.SLogger">
+            <summary>Stub type of <see cref="T:DesignItRight.Infrastructure.Common.Logging.Logger"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.SLogger.#ctor(DesignItRight.Infrastructure.Common.Logging.ILoggingSink)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.SLogger.InitializeStub">
+            <summary>Initializes a new instance of type SLogger</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.SLogger.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.SLogger.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:DesignItRight.Infrastructure.Common.Logging.Moles.STextFileLoggingSink">
+            <summary>Stub type of <see cref="T:DesignItRight.Infrastructure.Common.Logging.TextFileLoggingSink"/>
+            .</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:DesignItRight.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.InitializeStub">
+            <summary>Initializes a new instance of type STextFileLoggingSink</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:DesignItRight.Infrastructure.Common.Logging.Moles.STextFileLoggingSink.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+    </members>
+</doc>
